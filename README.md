@@ -11,11 +11,23 @@
 
 我的B站链接：https://space.bilibili.com/1972092941
 
+---
+
+### 加入动机 Join Motivation
+
+我自认为我产出创意内容的能力比较有竞争力，在高中时我曾获得顺义区电脑建模大赛二等奖，进入大学后，我也想继续学习下去，钻研并提高自己的技术能力。
+
+我主要想提高我的建模水平，可以的话我想还同时提高我的视频、特效制作水平，以及板绘（巨羡慕那些原画师）
+
+因此，我向贵社：414社团发出我的加入申请，期待您的回复！
+
+---
+
 ### 过往作品 Previous works
 
 #### 1.C4D-X13星舰（这是我设计的第13代星舰，此前还有12代，但是仅有构想图，未有实际建模）
 
-##### 项目描述
+#### 项目描述
 
 ![关于超大型星舰的设计与前瞻性研发-图片-0](https://github.com/user-attachments/assets/fca33e80-1174-4ef1-af8f-4207d4aa40eb)
 ![关于超大型星舰的设计与前瞻性研发-图片-1](https://github.com/user-attachments/assets/8643b182-4c66-4956-9162-15f128a16dd1)
@@ -30,17 +42,18 @@
 ![关于超大型星舰的设计与前瞻性研发-图片-10](https://github.com/user-attachments/assets/17b4d912-0aac-458c-a6de-dc01377bed85)
 ![关于超大型星舰的设计与前瞻性研发-图片-11](https://github.com/user-attachments/assets/38bcca8b-a8b9-40dd-9024-5de14f746d1d)
 
-##### 渲染图
+#### 渲染图
 
 ![1](https://github.com/user-attachments/assets/7e11dfab-d65b-4e0f-b2e6-58b83d35d299)
 ![X13](https://github.com/user-attachments/assets/c86264d4-6112-4c62-ad08-79f0b6a7477c)
 ![1122](https://github.com/user-attachments/assets/db444d2a-43ae-4e87-8420-5ac421a6cbf5)
 
-2.Photoshop-手机壳（适用于vivo Y51s）
+#### 2.Photoshop-手机壳（适用于vivo Y51s）
 
 ![vivo Y51s - 打印](https://github.com/user-attachments/assets/7a1d13bc-2576-4e8f-9186-a5bfec57b244)
 ![vivo 1](https://github.com/user-attachments/assets/6517b6fa-1a1d-49b7-8ae8-97a33c6ad6e9)
 
+#### 3.Photoshop-描改小糸侑
 
----
-## 我自认为我产出创意内容的能力比较有竞争力，在高中时我曾获得顺义区电脑建模大赛二等奖，进入大学后，我也想继续学习下去，钻研并提高自己的技术能力，因此，我向贵社：414社团发出我的加入申请，期待您的回复！
+![合成](https://github.com/user-attachments/assets/f80b564b-9bea-4e91-9342-3aa083ccc360)
+
