@@ -1,3 +1,4 @@
-# Welcome to my Repositories
-## This is Finder Studio
-## 👋My name is 付程昱
+# Welcome to Finder Studio's Repositories
+## 👋My name is Finder
+## My Chinses name is 付程昱
+
