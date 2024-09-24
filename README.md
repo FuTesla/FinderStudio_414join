@@ -23,11 +23,17 @@
 
 ---
 
+### 以前的工作流 Previous workflow
+
+![工作流](https://github.com/user-attachments/assets/bf0d0726-2d4b-4cef-9d5c-fd1a392f05db)
+
+---
+
 ### 过往作品 Previous works
 
 #### 1.C4D-X13星舰（这是我设计的第13代星舰，此前还有12代，但是仅有构想图，未有实际建模）
 
-#### 项目描述
+##### 项目描述
 
 ![关于超大型星舰的设计与前瞻性研发-图片-0](https://github.com/user-attachments/assets/fca33e80-1174-4ef1-af8f-4207d4aa40eb)
 ![关于超大型星舰的设计与前瞻性研发-图片-1](https://github.com/user-attachments/assets/8643b182-4c66-4956-9162-15f128a16dd1)
@@ -42,7 +48,7 @@
 ![关于超大型星舰的设计与前瞻性研发-图片-10](https://github.com/user-attachments/assets/17b4d912-0aac-458c-a6de-dc01377bed85)
 ![关于超大型星舰的设计与前瞻性研发-图片-11](https://github.com/user-attachments/assets/38bcca8b-a8b9-40dd-9024-5de14f746d1d)
 
-#### 渲染图
+##### 渲染图
 
 ![1](https://github.com/user-attachments/assets/7e11dfab-d65b-4e0f-b2e6-58b83d35d299)
 ![X13](https://github.com/user-attachments/assets/c86264d4-6112-4c62-ad08-79f0b6a7477c)
@@ -56,4 +62,14 @@
 #### 3.Photoshop-描改小糸侑
 
 ![合成](https://github.com/user-attachments/assets/f80b564b-9bea-4e91-9342-3aa083ccc360)
+
+#### 4.UE5-初中教学楼复现（源文件上传方式过于复杂，需要研究一阵子，这先放个图）
+
+![4](https://github.com/user-attachments/assets/cfa2e17e-7294-434c-988c-2c774aac4841)
+
+#### 5.After Effects-神里绫人角色演示模仿（这里是制作过程的截图）
+
+![5](https://github.com/user-attachments/assets/c1fced2d-3141-43b9-8987-a244ce61b202)
+
+
 
