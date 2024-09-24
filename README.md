@@ -13,7 +13,24 @@
 
 ### 过往作品 Previous works
 
-1.C4D-X13星舰（这是我设计的第13代星舰，此前还有12代，但是仅有构想图，未有实际建模）
+#### 1.C4D-X13星舰（这是我设计的第13代星舰，此前还有12代，但是仅有构想图，未有实际建模）
+
+##### 项目描述
+
+![关于超大型星舰的设计与前瞻性研发-图片-0](https://github.com/user-attachments/assets/fca33e80-1174-4ef1-af8f-4207d4aa40eb)
+![关于超大型星舰的设计与前瞻性研发-图片-1](https://github.com/user-attachments/assets/8643b182-4c66-4956-9162-15f128a16dd1)
+![关于超大型星舰的设计与前瞻性研发-图片-2](https://github.com/user-attachments/assets/fdcf2d88-2e84-40f3-b153-40ceb031ec31)
+![关于超大型星舰的设计与前瞻性研发-图片-3](https://github.com/user-attachments/assets/7711f4d8-89bb-4e51-b70a-6bf93c92a2f2)
+![关于超大型星舰的设计与前瞻性研发-图片-4](https://github.com/user-attachments/assets/57820a60-b655-4f2c-ba23-9757c82f8c11)
+![关于超大型星舰的设计与前瞻性研发-图片-5](https://github.com/user-attachments/assets/40ade53d-6a3b-453a-8b3b-b091989b4cf2)
+![关于超大型星舰的设计与前瞻性研发-图片-6](https://github.com/user-attachments/assets/ab28766d-3801-4175-a04a-0c72643a85fc)
+![关于超大型星舰的设计与前瞻性研发-图片-7](https://github.com/user-attachments/assets/23d22d66-6000-4879-b9b1-0e59fa27e6a0)
+![关于超大型星舰的设计与前瞻性研发-图片-8](https://github.com/user-attachments/assets/5414ecde-5e80-4019-9130-c376770cd685)
+![关于超大型星舰的设计与前瞻性研发-图片-9](https://github.com/user-attachments/assets/d2a0d1fa-15c1-463d-b586-f03359e3d6dc)
+![关于超大型星舰的设计与前瞻性研发-图片-10](https://github.com/user-attachments/assets/17b4d912-0aac-458c-a6de-dc01377bed85)
+![关于超大型星舰的设计与前瞻性研发-图片-11](https://github.com/user-attachments/assets/38bcca8b-a8b9-40dd-9024-5de14f746d1d)
+
+##### 渲染图
 
 ![1](https://github.com/user-attachments/assets/7e11dfab-d65b-4e0f-b2e6-58b83d35d299)
 ![X13](https://github.com/user-attachments/assets/c86264d4-6112-4c62-ad08-79f0b6a7477c)
