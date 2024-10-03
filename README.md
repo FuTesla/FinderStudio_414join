@@ -63,7 +63,7 @@
 
 ![合成](https://github.com/user-attachments/assets/f80b564b-9bea-4e91-9342-3aa083ccc360)
 
-#### 4.UE5-初中教学楼复现（源文件上传方式过于复杂，需要研究一阵子，这先放个图）
+#### 4.UE5-初中教学楼复现（源文件上传方式过于复杂，这放个图）
 
 ![4](https://github.com/user-attachments/assets/cfa2e17e-7294-434c-988c-2c774aac4841)
 
